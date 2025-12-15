@@ -1,0 +1,841 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.102.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:37:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:37:59] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:37:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Error occurred: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)>
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:38:04] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.102.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:40:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:40:40] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:40:40] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:Error occurred: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1028)>
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:40:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.102.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:48:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:48:06] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:Error occurred: list index out of range
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 00:48:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.102.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.102.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:06] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:No Comment
+INFO:root:Error occurred: cannot access local variable 'custcomment' where it is not associated with a value
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:13] "POST /review HTTP/1.1" 200 -
+INFO:root:No Comment
+INFO:root:Error occurred: cannot access local variable 'custcomment' where it is not associated with a value
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:14] "POST /review HTTP/1.1" 200 -
+INFO:root:No Comment
+INFO:root:Error occurred: cannot access local variable 'custcomment' where it is not associated with a value
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:15] "POST /review HTTP/1.1" 200 -
+INFO:root:No Comment
+INFO:root:Error occurred: cannot access local variable 'custcomment' where it is not associated with a value
+INFO:root:No Comment
+INFO:root:Error occurred: cannot access local variable 'custcomment' where it is not associated with a value
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.128.102.182 - - [30/Jul/2025 00:53:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.128.102.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 01:13:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 01:13:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'No Comment'}] 
+INFO:root:Error occurred: results.html
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 01:14:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:17:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:17:21] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:17:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'No Comment'}] 
+INFO:root:Error occurred: results.html
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:17:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\python\\reviews_project\\app2.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:29:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:29:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:29:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'No Comment'}] 
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:30:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:30:02] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:34:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:34:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:34:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'No Comment'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:34:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:34:14] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:38:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:38:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'No Comment'}] 
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:39:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 11:39:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:54:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:54:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:No Comment
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'No Comment'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'No Comment'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:55:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 11:55:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:03:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:03:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Error occurred: name 'custcomment' is not defined
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:03:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\python\\reviews_project\\app2.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 12:06:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 12:06:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 12:06:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.246.85.182 - - [30/Jul/2025 12:06:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:12:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:12:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:12:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:12:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.246.85.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:14:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:14:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:14:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 12:14:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:06:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:06:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:06:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Error occurred: HTTP Error 429: Too Many Requests
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:06:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:10:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:10:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:10:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:10:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:10:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:11:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:11:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone12', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Jaya chandra  Reddy', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phoneREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sibsankar Das', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sunita  Yadav', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality UltimateREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sivaramaraju Raju', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Manoj Kumar ', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'SuperREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Rupesh Thik', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:11:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:11:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:29:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:29:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone12', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Jaya chandra  Reddy', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phoneREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sibsankar Das', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sunita  Yadav', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality UltimateREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sivaramaraju Raju', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Manoj Kumar ', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'SuperREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Rupesh Thik', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:29:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 21:29:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:43:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:43:13] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:43:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone12', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Jaya chandra  Reddy', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phoneREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sibsankar Das', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sunita  Yadav', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality UltimateREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sivaramaraju Raju', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Manoj Kumar ', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'SuperREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Rupesh Thik', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}] 
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:43:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:43:26] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:55:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:55:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:File Created Successfully
+INFO:root:File Created Successfully
+INFO:root:File Created Successfully
+INFO:root:File Created Successfully
+INFO:root:File Created Successfully
+INFO:root:File Created Successfully
+INFO:root:log my final result [{'Product': 'iphone12', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Wow superb camera phone Very smooth speed and no lag , iphone is the king always Its a beautiful productREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Jaya chandra  Reddy', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phoneREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sibsankar Das', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sunita  Yadav', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality UltimateREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Sivaramaraju Raju', 'Rating': '5', 'Heading': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495READ MORE'}, {'Product': 'iphone12', 'Customer Name': 'Manoj Kumar ', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'SuperREAD MORE'}, {'Product': 'iphone12', 'Customer Name': 'Rupesh Thik', 'Rating': '5', 'Heading': 'Simply awesome', 'Comment': 'Awesome CameraREAD MORE'}] 
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:55:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 21:55:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 22:08:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 22:08:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Flipkart Customer, Rating: 5, Heading: Wonderful, Comment: This is amazing at allREAD MORE
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 22:08:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [30/Jul/2025 22:08:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:12:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:12:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: samsungm21, Customer Name: Deepak Kaushik, Rating: 5, Heading: Excellent, Comment: Best phone, Best battery, Best smoothness, Best camera, Best battery.READ MORE
+INFO:root:Product: samsungm21, Customer Name: Flipkart Customer, Rating: 5, Heading: Perfect product!, Comment: Good mobile.charging and camera supper...READ MORE
+INFO:root:Product: samsungm21, Customer Name: Istekar Ansari, Rating: 4, Heading: Delightful, Comment: Very happy nice good look good device M21READ MORE
+INFO:root:Product: samsungm21, Customer Name: Biswaranjan Dixit, Rating: 5, Heading: Terrific, Comment: In this range, Phone is better.READ MORE
+INFO:root:Product: samsungm21, Customer Name: Flipkart Customer, Rating: 5, Heading: Excellent, Comment: TerrificREAD MORE
+INFO:root:Product: samsungm21, Customer Name: Amarchand Sharma, Rating: 5, Heading: Classy product, Comment: This mobile  value for moneyREAD MORE
+INFO:root:Product: samsungm21, Customer Name: Vijay kumar Singh, Rating: 5, Heading: Classy product, Comment: Wow this is so amazing phone I love it this phone thank you flipkart to deliver my samsung galaxy m21 phoneREAD MORE
+INFO:root:log my final result [{'Product': 'samsungm21', 'Customer Name': 'Deepak Kaushik', 'Rating': '5', 'Heading': 'Excellent', 'Comment': 'Best phone, Best battery, Best smoothness, Best camera, Best battery.READ MORE'}, {'Product': 'samsungm21', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Perfect product!', 'Comment': 'Good mobile.charging and camera supper...READ MORE'}, {'Product': 'samsungm21', 'Customer Name': 'Istekar Ansari', 'Rating': '4', 'Heading': 'Delightful', 'Comment': 'Very happy nice good look good device M21READ MORE'}, {'Product': 'samsungm21', 'Customer Name': 'Biswaranjan Dixit', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'In this range, Phone is better.READ MORE'}, {'Product': 'samsungm21', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Excellent', 'Comment': 'TerrificREAD MORE'}, {'Product': 'samsungm21', 'Customer Name': 'Amarchand Sharma', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'This mobile  value for moneyREAD MORE'}, {'Product': 'samsungm21', 'Customer Name': 'Vijay kumar Singh', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Wow this is so amazing phone I love it this phone thank you flipkart to deliver my samsung galaxy m21 phoneREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:13:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:13:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:13:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:13:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Error occurred: HTTP Error 429: Too Many Requests
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:14:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:14:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:14:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: , Customer Name: Karri Leelakumari, Rating: 4, Heading: Good choice, Comment: Super working my husband is happyREAD MORE
+INFO:root:Product: , Customer Name: Tarun Kumar, Rating: 5, Heading: Great product, Comment: Thank you for your helpREAD MORE
+INFO:root:Product: , Customer Name: Manickavel M, Rating: 5, Heading: Highly recommended, Comment: Excellent product even better than odomossREAD MORE
+INFO:root:Product: , Customer Name: Jassa Ram, Rating: 5, Heading: Awesome, Comment: GoodREAD MORE
+INFO:root:Product: , Customer Name: Flipkart Customer, Rating: 4, Heading: Delightful, Comment: GoodREAD MORE
+INFO:root:Product: , Customer Name: Biplab Pandeyxy, Rating: 4, Heading: Delightful, Comment: Good Quality Product. Save Money.READ MORE
+INFO:root:Product: , Customer Name: Ravi Singh, Rating: 1, Heading: Very poor, Comment: Not worthy it's not workingREAD MORE
+INFO:root:log my final result [{'Product': '', 'Customer Name': 'Karri Leelakumari', 'Rating': '4', 'Heading': 'Good choice', 'Comment': 'Super working my husband is happyREAD MORE'}, {'Product': '', 'Customer Name': 'Tarun Kumar', 'Rating': '5', 'Heading': 'Great product', 'Comment': 'Thank you for your helpREAD MORE'}, {'Product': '', 'Customer Name': 'Manickavel M', 'Rating': '5', 'Heading': 'Highly recommended', 'Comment': 'Excellent product even better than odomossREAD MORE'}, {'Product': '', 'Customer Name': 'Jassa Ram', 'Rating': '5', 'Heading': 'Awesome', 'Comment': 'GoodREAD MORE'}, {'Product': '', 'Customer Name': 'Flipkart Customer', 'Rating': '4', 'Heading': 'Delightful', 'Comment': 'GoodREAD MORE'}, {'Product': '', 'Customer Name': 'Biplab Pandeyxy', 'Rating': '4', 'Heading': 'Delightful', 'Comment': 'Good Quality Product. Save Money.READ MORE'}, {'Product': '', 'Customer Name': 'Ravi Singh', 'Rating': '1', 'Heading': 'Very poor', 'Comment': "Not worthy it's not workingREAD MORE"}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:14:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:15:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:15:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: wellcorecretain, Customer Name: Keshav Verma, Rating: 5, Heading: Terrific, Comment: Nice product by wellcore. Helps in overall development of the body . Increases strength , results can be seen in 3-4 weeksREAD MORE
+INFO:root:Product: wellcorecretain, Customer Name: Adnan Ali, Rating: 5, Heading: Excellent, Comment: Best \U0001f525rejalt Bast creatineREAD MORE
+INFO:root:Product: wellcorecretain, Customer Name: Manish Sharnagat, Rating: 5, Heading: Highly recommended, Comment: Best \U0001f44c  No side effectsREAD MORE
+INFO:root:Product: wellcorecretain, Customer Name: Sona Bhandari, Rating: 5, Heading: Just wow!, Comment: Nice prodect by wellcore. Helpin overall development of the body. Increase strength, results can be seen in 3-4 weekREAD MORE
+INFO:root:Product: wellcorecretain, Customer Name: Abdul Aleem, Rating: 5, Heading: Brilliant, Comment: Osm product \U0001f44d, easy to consume and very effectiveREAD MORE
+INFO:root:Product: wellcorecretain, Customer Name: Santun  Khuntia, Rating: 4, Heading: Good quality product, Comment: IF YOU WILL USE YOU CANT BELIEVE YOUR STRENGTH.YOU FEEL LIKE YOU HAVE GOT SOME SUPER STRENGTH POWER THE RESULT WILL NOT SHOW YOU UNTIL YOU USE IT FOR 2 TO 3 WEEKS .YES YOUR MUSCLES WILL GROW AND YOU SHOULD TAKE MORE WATER CONSUME 3 GM PER DAY IS BESTREAD MORE
+INFO:root:Product: wellcorecretain, Customer Name: Sonu Kumar, Rating: 5, Heading: Brilliant, Comment: Good product \U0001f44d 100% workREAD MORE
+INFO:root:log my final result [{'Product': 'wellcorecretain', 'Customer Name': 'Keshav Verma', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Nice product by wellcore. Helps in overall development of the body . Increases strength , results can be seen in 3-4 weeksREAD MORE'}, {'Product': 'wellcorecretain', 'Customer Name': 'Adnan Ali', 'Rating': '5', 'Heading': 'Excellent', 'Comment': 'Best \U0001f525rejalt Bast creatineREAD MORE'}, {'Product': 'wellcorecretain', 'Customer Name': 'Manish Sharnagat', 'Rating': '5', 'Heading': 'Highly recommended', 'Comment': 'Best \U0001f44c  No side effectsREAD MORE'}, {'Product': 'wellcorecretain', 'Customer Name': 'Sona Bhandari', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Nice prodect by wellcore. Helpin overall development of the body. Increase strength, results can be seen in 3-4 weekREAD MORE'}, {'Product': 'wellcorecretain', 'Customer Name': 'Abdul Aleem', 'Rating': '5', 'Heading': 'Brilliant', 'Comment': 'Osm product \U0001f44d, easy to consume and very effectiveREAD MORE'}, {'Product': 'wellcorecretain', 'Customer Name': 'Santun  Khuntia', 'Rating': '4', 'Heading': 'Good quality product', 'Comment': 'IF YOU WILL USE YOU CANT BELIEVE YOUR STRENGTH.YOU FEEL LIKE YOU HAVE GOT SOME SUPER STRENGTH POWER THE RESULT WILL NOT SHOW YOU UNTIL YOU USE IT FOR 2 TO 3 WEEKS .YES YOUR MUSCLES WILL GROW AND YOU SHOULD TAKE MORE WATER CONSUME 3 GM PER DAY IS BESTREAD MORE'}, {'Product': 'wellcorecretain', 'Customer Name': 'Sonu Kumar', 'Rating': '5', 'Heading': 'Brilliant', 'Comment': 'Good product \U0001f44d 100% workREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:16:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 22:16:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 23:40:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 23:40:49] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 23:40:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Flipkart Customer, Rating: 5, Heading: Wonderful, Comment: This is amazing at allREAD MORE
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 23:41:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 23:41:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:10.155.197.182 - - [31/Jul/2025 14:43:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.155.197.182 - - [31/Jul/2025 14:43:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:10.155.197.182 - - [31/Jul/2025 14:43:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:43:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:43:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:43:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [] 
+INFO:root:Error occurred: documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:44:13] "POST /review HTTP/1.1" 200 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [] 
+INFO:root:Error occurred: documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:44:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.155.197.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:45:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:45:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Flipkart Customer, Rating: 5, Heading: Wonderful, Comment: This is amazing at allREAD MORE
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:45:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 14:45:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.169:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2025 23:29:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2025 23:29:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2025 23:29:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Flipkart Customer, Rating: 5, Heading: Wonderful, Comment: This is amazing at allREAD MORE
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Wonderful', 'Comment': 'This is amazing at allREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2025 23:30:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Aug/2025 23:30:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.67.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:06:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:06:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:06:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:log my final result [] 
+INFO:root:Error occurred: documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:06:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.67.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:07:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:07:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:07:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2025 13:07:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Error occurred: HTTP Error 403: Forbidden
+INFO:root:Error occurred: HTTP Error 403: Forbidden
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:12:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:13:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:13:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Error occurred: HTTP Error 403: Forbidden
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:13:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 22:17:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 22:17:35] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 22:17:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Error occurred: HTTP Error 403: Forbidden
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 22:17:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug: * Detected change in 'C:\\Users\\python\\reviews_project\\app2.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:41:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:41:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Error occurred: urlopen() got an unexpected keyword argument 'headers'
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:41:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\python\\reviews_project\\app2.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:44:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:44:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Error occurred: list index out of range
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:44:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\python\\reviews_project\\app2.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:55:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:55:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Error occurred: name 'reponse' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Aug/2025 22:55:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 23:01:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 23:01:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:403
+INFO:root:<!DOCTYPE html><html lang=en><meta charset=UTF-8><meta content="width=device-width,initial-scale=1"name=viewport><title>Flipkart reCAPTCHA</title><link href=https://static-assets-web.flixcart.com/batman-returns/batman-returns/s/recaptcha.css rel=stylesheet><script src="https://www.google.com/recaptcha/enterprise.js?render=6Lc49B0pAAAAAIVgOhfwW8i7t7SRO0KSnlSVZRAq"></script><script src=https://static-assets-web.flixcart.com/apex-static/js/recaptcha-enterprise-v1.js async defer></script><div class=container><img alt="Flipkart Logo"class=logo src="https://rukminim1.flixcart.com/www/60/60/promos/14/06/2024/88011666-ce1d-40f0-a8eb-1bac7d164885.png?q=60"><h1 class=header>Are you a human?</h1><p class=subText>Confirming...<div class=loaderContainer><div class=loader></div></div></div>
+INFO:root:Error occurred: list index out of range
+INFO:werkzeug:172.20.4.214 - - [22/Aug/2025 23:01:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:31:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:31:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:31:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Error occurred: HTTP Error 403: Forbidden
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:31:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:37:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:37:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:37:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:37:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:37:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:172.20.4.214 - - [24/Aug/2025 15:43:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.4.214 - - [24/Aug/2025 15:43:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.4.214 - - [24/Aug/2025 15:43:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:172.20.4.214 - - [24/Aug/2025 15:43:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.20.4.214 - - [24/Aug/2025 15:43:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:43:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:43:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:43:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:43:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.4.214:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:51:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:51:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:51:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2025 15:51:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.186.229.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:35:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:35:07] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:35:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:35:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:35:39] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:35:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:36:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:36:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:File Created Successfully
+INFO:root:Product: mouse, Customer Name: Ganesh Tamarapalli, Rating: 4, Heading: Wonderful, Comment: Cheap and bestREAD MORE
+INFO:root:Product: mouse, Customer Name: Rishikesh Singh, Rating: 4, Heading: Good choice, Comment: Nice mouse in decent price but build quality is not expected \U0001f615READ MORE
+INFO:root:Product: mouse, Customer Name: Tarun Changotra, Rating: 5, Heading: Super!, Comment: This product is of very nice qualityREAD MORE
+INFO:root:Product: mouse, Customer Name: Flipkart Customer, Rating: 5, Heading: Terrific purchase, Comment: It's is really good and simpleREAD MORE
+INFO:root:Product: mouse, Customer Name: Dilcheng K  Marak , Rating: 5, Heading: Best in the market!, Comment: Good productREAD MORE
+INFO:root:Product: mouse, Customer Name: Shubham Singh, Rating: 5, Heading: Awesome, Comment: Best \U0001f44dREAD MORE
+INFO:root:Product: mouse, Customer Name: Shravani Patade, Rating: 3, Heading: Decent product, Comment: Very light weightedREAD MORE
+INFO:root:log my final result [{'Product': 'mouse', 'Customer Name': 'Ganesh Tamarapalli', 'Rating': '4', 'Heading': 'Wonderful', 'Comment': 'Cheap and bestREAD MORE'}, {'Product': 'mouse', 'Customer Name': 'Rishikesh Singh', 'Rating': '4', 'Heading': 'Good choice', 'Comment': 'Nice mouse in decent price but build quality is not expected \U0001f615READ MORE'}, {'Product': 'mouse', 'Customer Name': 'Tarun Changotra', 'Rating': '5', 'Heading': 'Super!', 'Comment': 'This product is of very nice qualityREAD MORE'}, {'Product': 'mouse', 'Customer Name': 'Flipkart Customer', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': "It's is really good and simpleREAD MORE"}, {'Product': 'mouse', 'Customer Name': 'Dilcheng K  Marak ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good productREAD MORE'}, {'Product': 'mouse', 'Customer Name': 'Shubham Singh', 'Rating': '5', 'Heading': 'Awesome', 'Comment': 'Best \U0001f44dREAD MORE'}, {'Product': 'mouse', 'Customer Name': 'Shravani Patade', 'Rating': '3', 'Heading': 'Decent product', 'Comment': 'Very light weightedREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:37:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2025 14:37:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.186.229.182:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 871-035-690
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2025 13:27:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2025 13:27:02] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2025 13:27:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:File Created Successfully
+INFO:root:Product: iphone11, Customer Name: Manish  Deshlahare, Rating: 5, Heading: Terrific, Comment: Very very goodREAD MORE
+INFO:root:Product: iphone11, Customer Name: Steevan Rattra , Rating: 5, Heading: Best in the market!, Comment: Good CameraREAD MORE
+INFO:root:Product: iphone11, Customer Name: Abhishek Sachdeva, Rating: 5, Heading: Worth every penny, Comment: Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Sakshi Bharti, Rating: 5, Heading: Fabulous!, Comment: Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE
+INFO:root:Product: iphone11, Customer Name: Vishnu Ramakrishnan, Rating: 5, Heading: Classy product, Comment: Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE
+INFO:root:Product: iphone11, Customer Name: Vikram rapolu, Rating: 5, Heading: Just wow!, Comment: Perfect Product!!READ MORE
+INFO:root:Product: iphone11, Customer Name: Dev, Rating: 5, Heading: Terrific purchase, Comment: Value for money \U0001f60dREAD MORE
+INFO:root:log my final result [{'Product': 'iphone11', 'Customer Name': 'Manish  Deshlahare', 'Rating': '5', 'Heading': 'Terrific', 'Comment': 'Very very goodREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Steevan Rattra ', 'Rating': '5', 'Heading': 'Best in the market!', 'Comment': 'Good CameraREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Abhishek Sachdeva', 'Rating': '5', 'Heading': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Sakshi Bharti', 'Rating': '5', 'Heading': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0fREAD MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Heading': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Vikram rapolu', 'Rating': '5', 'Heading': 'Just wow!', 'Comment': 'Perfect Product!!READ MORE'}, {'Product': 'iphone11', 'Customer Name': 'Dev', 'Rating': '5', 'Heading': 'Terrific purchase', 'Comment': 'Value for money \U0001f60dREAD MORE'}] 
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2025 13:27:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2025 13:27:12] "GET /static/css/style.css HTTP/1.1" 200 -

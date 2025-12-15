@@ -1,0 +1,35 @@
+/* ======= General Reset ======= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ======= Body Styling ======= */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #9dd3d3;
+}
+
+/* ======= Heading ======= */
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 50px;
+  color: #000;
+}
+
+/* ======= Form Styling ======= */
+.form {
+  text-align: center;
+  margin-top: 30px;
+}
+
+input[type="text"],
+input[type="submit"] {
+  padding: 10px 15px;
+  font-size: 1em;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
